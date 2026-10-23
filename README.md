@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle"><a href="https://github.com/hananaasif/shape_sprint"><img src="assets/shape-sprint.png" alt="Shape Sprint main menu showing jungle-themed artwork" width="160" /></a></td>
+<td width="34%" align="center" valign="middle"><a href="https://github.com/hananaasif/shape_sprint"><img src="shapesprint.png" alt="Shape Sprint main menu showing jungle-themed artwork" width="160" /></a></td>
 <td valign="middle">
 
 ### 🌿 [Shape Sprint](https://github.com/hananaasif/shape_sprint)
@@ -34,7 +34,7 @@ An arcade runner with **six levels**, cube-to-sphere transformations, three-lane
 </td>
 </tr>
 <tr>
-<td width="34%" align="center" valign="middle"><a href="https://hananaasif.itch.io/type-n-pop"><img src="assets/type-n-pop.png" alt="Type 'n Pop main menu with colorful balloons and game modes" width="360" /></a></td>
+<td width="34%" align="center" valign="middle"><a href="https://hananaasif.itch.io/type-n-pop"><img src="typenpop.png" alt="Type 'n Pop main menu with colorful balloons and game modes" width="360" /></a></td>
 <td valign="middle">
 
 ### 🎈 [Type 'n Pop](https://github.com/hananaasif/TypenPopGame)
