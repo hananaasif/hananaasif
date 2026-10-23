@@ -1,84 +1,110 @@
+<p align="center">
+  <img src="profile-banner.svg" alt="Hanana Asif — I make things you can play. Unity Game Developer and Gameplay Programmer." width="100%" />
+</p>
+
 <div align="center">
 
-# Hey, I'm Hanana! 👋
-### 🎮 Unity Game Developer · Gameplay Programmer · Creative Problem Solver
+### Hey, I’m Hanana. Welcome to my playground.
 
-*I turn ideas into playable experiences — from satisfying puzzle mechanics to colorful arcade games.*
+I build **satisfying mechanics, colorful worlds, and games that feel good to play.**  
+Unity developer with a love for gameplay systems, mobile games, and creative problem solving.
 
-[![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=sharp&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+<p>
+  <a href="https://hananaasif.github.io/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-C3F85C?style=for-the-badge&amp;logo=githubpages&amp;logoColor=101410" alt="Explore my portfolio" /></a>
+  <a href="https://hananaasif.itch.io/type-n-pop"><img src="https://img.shields.io/badge/PLAY_TYPE_%27N_POP-202820?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=C3F85C" alt="Play Type 'n Pop" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanana-asif)
-[![itch.io](https://img.shields.io/badge/itch.io-Play_My_Game-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://hananaasif.itch.io/type-n-pop)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-555555?style=flat-square&logo=gmail)](mailto:hananaasif2004@gmail.com)
+[LinkedIn ↗](https://www.linkedin.com/in/hanana-asif) &nbsp; / &nbsp; [itch.io ↗](https://hananaasif.itch.io/type-n-pop) &nbsp; / &nbsp; [Say hello ↗](mailto:hananaasif2004@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🕹️ Featured games
+## 01 / Select your game
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle"><a href="https://github.com/hananaasif/shape_sprint"><img src="shapesprint.png" alt="Shape Sprint main menu showing jungle-themed artwork" width="360" /></a></td>
-<td valign="middle">
-
-### 🌿 [Shape Sprint](https://github.com/hananaasif/shape_sprint)
-**3D Runner · Unity · C#**
-
-An arcade runner with **six levels**, cube-to-sphere transformations, three-lane movement, obstacle avoidance, and coin collection. I programmed the gameplay and systems, including input, camera tracking, health and progression; UI art was provided by an artist.
-
-**[▶ Watch gameplay](https://youtu.be/TKDkQiinLcs)** · **[💻 View source](https://github.com/hananaasif/shape_sprint)**
-
+<td width="50%" valign="top">
+<a href="https://youtu.be/TKDkQiinLcs"><img src="shapesprint.png" alt="Shape Sprint — jungle-themed arcade runner main menu" width="100%" /></a>
+<h3>🌿 Shape Sprint</h3>
+<p><code>3D RUNNER</code> <code>UNITY</code> <code>C#</code></p>
+<p><b>Shift your shape. Find your rhythm.</b><br>Six levels of cube-to-sphere transformations, three-lane movement, obstacle dodging, and coin collection.</p>
+<p><b>My contribution:</b> gameplay programming, input, camera tracking, health, and progression.<br><sub>UI artwork by a collaborating artist.</sub></p>
+<p><a href="https://youtu.be/TKDkQiinLcs"><b>▶ Watch gameplay</b></a> &nbsp; · &nbsp; <a href="https://github.com/hananaasif/shape_sprint">Source ↗</a></p>
 </td>
-</tr>
-<tr>
-<td width="34%" align="center" valign="middle"><a href="https://hananaasif.itch.io/type-n-pop"><img src="typenpop.png" alt="Type 'n Pop main menu with colorful balloons and game modes" width="360" /></a></td>
-<td valign="middle">
-
-### 🎈 [Type 'n Pop](https://github.com/hananaasif/TypenPopGame)
-**2D Typing Arcade · Unity · C# · TextMeshPro**
-
-Type words to pop rising balloons in **60-second timed** or **five-life survival** mode. Features randomized spawns, increasing challenge, physics, animations, audio, and light/dark themes.
-
-**[🎮 Play on itch.io](https://hananaasif.itch.io/type-n-pop)** · **[💻 View source](https://github.com/hananaasif/TypenPopGame)**
-
+<td width="50%" valign="top">
+<a href="https://hananaasif.itch.io/type-n-pop"><img src="typenpop.png" alt="Type 'n Pop — colorful balloon typing arcade main menu" width="100%" /></a>
+<h3>🎈 Type ’n Pop</h3>
+<p><code>2D TYPING ARCADE</code> <code>UNITY</code> <code>C#</code></p>
+<p><b>Quick fingers. Happy little explosions.</b><br>Type to pop rising balloons in a 60-second sprint or a five-life survival challenge.</p>
+<p><b>The details:</b> randomized spawns, increasing difficulty, physics, animations, audio, TextMeshPro, and light/dark themes.</p>
+<p><a href="https://hananaasif.itch.io/type-n-pop"><b>▶ Play on itch.io</b></a> &nbsp; · &nbsp; <a href="https://github.com/hananaasif/TypenPopGame">Source ↗</a></p>
 </td>
 </tr>
 </table>
 
-## ✨ More things I've built
+<br>
 
-- 🧩 **HexaMerge** — A Unity puzzle prototype inspired by *HexaBlock Puzzle Merge*, featuring drag-and-drop tile placement and a three-tile merge system.
-- 🏡 **Virtual Agent for Real Estate** — Contributed to a team-built Unreal Engine 5 property-tour experience with MetaHuman, Blueprints, NVIDIA Audio2Face and Live Link.
-- 🛠️ **Unity Editor Level Generator** — Built an Editor window that automatically generates levels from configurable parameters.
+## 02 / Side quests
 
-## 💼 Professional experience
+| Project | What I built |
+| :--- | :--- |
+| **🧩 HexaMerge** | Unity puzzle prototype inspired by *HexaBlock Puzzle Merge*: drag-and-drop tile placement and a three-tile merge system. |
+| **🏡 Virtual Agent for Real Estate** | Contributed to a team-built UE5 property-tour experience with MetaHuman, Blueprints, NVIDIA Audio2Face, and Live Link. |
+| **🛠 Unity Editor Level Generator** | Custom Editor window that automatically generates levels from configurable parameters. |
 
-- **Associate Game Developer · Mindstorm Studios** *(Jul–Oct 2026)* — Contributed to commercial Unity titles, including puzzle gameplay mechanics, mobile SDK/Billing updates and build issue resolution; submitted AABs for QA.
-- **Unity Developer · Algoryte** *(Mar–May 2026)* — Contributed to *Exofarm*'s idle mode and started migrating interface panels from UGUI to UI Toolkit.
-- **Unity Development Intern · Algoryte** *(Jul–Oct 2025)* — Helped build *Bladder Defender*, a 2D educational platformer, including enemies, interactions, hazards, quizzes and level assembly.
-- **Unity Development Intern · Mindstorm Studios** *(Jun–Aug 2024)* — Programmed *Shape Sprint* for Rookie Game Jam 2024.
+<br>
 
-## 🧰 My toolbox
+## 03 / Experience points
 
-**Game development:** `Unity 2D/3D` · `C#` · `Gameplay Systems` · `Unity Input System` · `Cinemachine` · `Animator` · `UGUI` · `UI Toolkit` · `Custom Editor Tools`
+**Mindstorm Studios** · Associate Game Developer  
+<sub>JUL — OCT 2026</sub>  
+Commercial Unity titles: puzzle gameplay mechanics, mobile SDK/Billing updates, build issue resolution, and AAB submissions for QA.
 
-**3D & interactive:** `Unreal Engine 5` · `Blueprints` · `MetaHuman` · `NVIDIA Audio2Face` · `Live Link` · `Blender`
+**Algoryte** · Unity Developer  
+<sub>MAR — MAY 2026</sub>  
+Contributed to *Exofarm*’s idle mode and began migrating interface panels from UGUI to UI Toolkit.
 
-**Workflow:** `Git/GitHub` · `Android AAB` · `Google Play Billing` · `Debugging` · `Level Design/Implementation` · `Game Design Documents`
+<details>
+<summary><b>Earlier chapters — internships</b></summary>
 
-## 🌱 What I enjoy
+<br>
 
-Creating intuitive controls, polished game feel, interesting puzzles, and tools that make game development faster. I'm especially interested in **gameplay programming, mobile games, and interactive 3D experiences**.
+**Algoryte** · Unity Development Intern  
+<sub>JUL — OCT 2025</sub>  
+Helped build *Bladder Defender*, a 2D educational platformer: enemies, interactions, hazards, quizzes, and level assembly.
+
+**Mindstorm Studios** · Unity Development Intern  
+<sub>JUN — AUG 2024</sub>  
+Programmed *Shape Sprint* for Rookie Game Jam 2024.
+
+</details>
+
+<br>
+
+## 04 / My loadout
+
+| Focus | Tools & skills |
+| :--- | :--- |
+| **Gameplay** | Unity 2D/3D · C# · Gameplay Systems · Input System · Cinemachine · Animator |
+| **UI & tools** | UGUI · UI Toolkit · TextMeshPro · Custom Editor Tools |
+| **Interactive 3D** | Unreal Engine 5 · Blueprints · MetaHuman · Audio2Face · Live Link · Blender |
+| **Shipping & workflow** | Git/GitHub · Android AAB · Google Play Billing · Debugging · Level Implementation · Game Design Documents |
+
+<br>
 
 ---
 
 <div align="center">
 
-### 🎯 Thanks for stopping by!
+### A little logic. A lot of play.
 
-**[🎈 Play Type 'n Pop](https://hananaasif.itch.io/type-n-pop)** · **[🌿 Watch Shape Sprint](https://youtu.be/TKDkQiinLcs)** · **[🤝 Connect on LinkedIn](https://www.linkedin.com/in/hanana-asif)**
+I enjoy intuitive controls, polished game feel, interesting puzzles,  
+and tools that make creating games a little easier.
+
+**Have something playable in mind? [Let’s talk ↗](mailto:hananaasif2004@gmail.com)**
+
+[Explore my portfolio](https://hananaasif.github.io/) &nbsp; · &nbsp; [Play Type ’n Pop](https://hananaasif.itch.io/type-n-pop) &nbsp; · &nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/hanana-asif)
 
 </div>
+
