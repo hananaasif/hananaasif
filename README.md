@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle"><a href="https://github.com/hananaasif/shape_sprint"><img src="shapesprint.png" alt="Shape Sprint main menu showing jungle-themed artwork" width="160" /></a></td>
+<td width="34%" align="center" valign="middle"><a href="https://github.com/hananaasif/shape_sprint"><img src="shapesprint.png" alt="Shape Sprint main menu showing jungle-themed artwork" width="360" /></a></td>
 <td valign="middle">
 
 ### 🌿 [Shape Sprint](https://github.com/hananaasif/shape_sprint)
