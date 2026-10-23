@@ -24,16 +24,22 @@ Unity developer with a love for gameplay systems, mobile games, and creative pro
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="middle">
 <a href="https://youtu.be/TKDkQiinLcs"><img src="shapesprint.png" alt="Shape Sprint — jungle-themed arcade runner main menu" width="100%" /></a>
+</td>
+<td width="58%" valign="middle">
 <h3>🌿 Shape Sprint</h3>
 <p><code>3D RUNNER</code> <code>UNITY</code> <code>C#</code></p>
 <p><b>Shift your shape. Find your rhythm.</b><br>Six levels of cube-to-sphere transformations, three-lane movement, obstacle dodging, and coin collection.</p>
 <p><b>My contribution:</b> gameplay programming, input, camera tracking, health, and progression.<br><sub>UI artwork by a collaborating artist.</sub></p>
 <p><a href="https://youtu.be/TKDkQiinLcs"><b>▶ Watch gameplay</b></a> &nbsp; · &nbsp; <a href="https://github.com/hananaasif/shape_sprint">Source ↗</a></p>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="42%" align="center" valign="middle">
 <a href="https://hananaasif.itch.io/type-n-pop"><img src="typenpop.png" alt="Type 'n Pop — colorful balloon typing arcade main menu" width="100%" /></a>
+</td>
+<td width="58%" valign="middle">
 <h3>🎈 Type ’n Pop</h3>
 <p><code>2D TYPING ARCADE</code> <code>UNITY</code> <code>C#</code></p>
 <p><b>Quick fingers. Happy little explosions.</b><br>Type to pop rising balloons in a 60-second sprint or a five-life survival challenge.</p>
@@ -47,11 +53,17 @@ Unity developer with a love for gameplay systems, mobile games, and creative pro
 
 ## 02 / Side quests
 
-| Project | What I built |
-| :--- | :--- |
-| **🧩 HexaMerge** | Unity puzzle prototype inspired by *HexaBlock Puzzle Merge*: drag-and-drop tile placement and a three-tile merge system. |
-| **🏡 Virtual Agent for Real Estate** | Contributed to a team-built UE5 property-tour experience with MetaHuman, Blueprints, NVIDIA Audio2Face, and Live Link. |
-| **🛠 Unity Editor Level Generator** | Custom Editor window that automatically generates levels from configurable parameters. |
+### 🧩 HexaMerge
+Unity puzzle prototype inspired by *HexaBlock Puzzle Merge*, featuring drag-and-drop tile placement and a three-tile merge system.  
+<sub>UNITY · C# · PUZZLE MECHANICS</sub>
+
+### 🏡 Virtual Agent for Real Estate
+Contributed to a team-built UE5 property-tour experience with MetaHuman, Blueprints, NVIDIA Audio2Face, and Live Link.  
+<sub>UNREAL ENGINE 5 · INTERACTIVE 3D</sub>
+
+### 🛠 Unity Editor Level Generator
+Custom Editor window that automatically generates levels from configurable parameters.  
+<sub>UNITY EDITOR · CUSTOM TOOLS</sub>
 
 <br>
 
@@ -84,12 +96,17 @@ Programmed *Shape Sprint* for Rookie Game Jam 2024.
 
 ## 04 / My loadout
 
-| Focus | Tools & skills |
-| :--- | :--- |
-| **Gameplay** | Unity 2D/3D · C# · Gameplay Systems · Input System · Cinemachine · Animator |
-| **UI & tools** | UGUI · UI Toolkit · TextMeshPro · Custom Editor Tools |
-| **Interactive 3D** | Unreal Engine 5 · Blueprints · MetaHuman · Audio2Face · Live Link · Blender |
-| **Shipping & workflow** | Git/GitHub · Android AAB · Google Play Billing · Debugging · Level Implementation · Game Design Documents |
+**Gameplay**  
+`Unity 2D/3D` `C#` `Gameplay Systems` `Input System` `Cinemachine` `Animator`
+
+**UI & tools**  
+`UGUI` `UI Toolkit` `TextMeshPro` `Custom Editor Tools`
+
+**Interactive 3D**  
+`Unreal Engine 5` `Blueprints` `MetaHuman` `Audio2Face` `Live Link` `Blender`
+
+**Shipping & workflow**  
+`Git/GitHub` `Android AAB` `Google Play Billing` `Debugging` `Level Implementation` `Game Design Documents`
 
 <br>
 
