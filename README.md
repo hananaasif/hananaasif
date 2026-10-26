@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.svg" alt="Hanana Asif — I make things you can play. Unity Game Developer and Gameplay Programmer." width="100%" />
+  <img src="profile-banner-purple.svg" alt="Hanana Asif — I make things you can play. Unity Game Developer and Gameplay Programmer." width="100%" />
 </p>
 
 <div align="center">

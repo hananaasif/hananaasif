@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Hanana Asif — I make things you can play.</title><desc id="desc">Dark arcade-inspired banner with purple lettering, a wireframe grid, and geometric game objects.</desc>
+<defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#c99aff" stroke-opacity=".08"/></pattern><radialGradient id="glow"><stop stop-color="#482b60"/><stop offset="1" stop-color="#17101f"/></radialGradient><radialGradient id="ball" cx=".3" cy=".25"><stop stop-color="#e9ddff"/><stop offset=".65" stop-color="#ad8fd0"/><stop offset="1" stop-color="#655177"/></radialGradient></defs>
+<rect width="1280" height="400" rx="18" fill="#17101f"/><rect x="760" width="520" height="400" fill="url(#glow)"/><rect width="1280" height="400" fill="url(#grid)"/>
+<path d="M42 35h25m-25 0v25M1238 35h-25m25 0v25M42 365h25m-25 0v-25M1238 365h-25m25 0v-25" fill="none" stroke="#8f64ab"/>
+<circle cx="79" cy="77" r="5" fill="#c99aff"/><text x="98" y="82" fill="#bfa4d1" font-family="monospace" font-size="13" letter-spacing="3">PLAYER 01 / HANANA ASIF</text>
+<text x="72" y="163" fill="#f0f2e8" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="700" letter-spacing="-2">I make things</text>
+<text x="72" y="237" fill="#f0f2e8" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="700" letter-spacing="-2">you can <tspan fill="#c99aff" font-family="Georgia,serif" font-style="italic" font-weight="400">play.</tspan></text>
+<path d="M315 254q94-17 190-5" stroke="#c99aff" stroke-width="3" fill="none"/>
+<text x="76" y="301" fill="#c1aacf" font-family="Arial,Helvetica,sans-serif" font-size="18">Unity Game Developer · Gameplay Programmer</text>
+<text x="76" y="338" fill="#9b7bad" font-family="monospace" font-size="11" letter-spacing="2">CURIOSITY + CODE → PLAYABLE POSSIBILITIES</text>
+<circle cx="1015" cy="198" r="142" fill="none" stroke="#694181" stroke-opacity=".5"/><circle cx="1015" cy="198" r="167" fill="none" stroke="#694181" stroke-opacity=".35" stroke-dasharray="4 9"/>
+<circle cx="913" cy="253" r="47" fill="url(#ball)"/><ellipse cx="1040" cy="311" rx="88" ry="12" fill="#080b07" opacity=".65"/>
+<path d="m1007 111 105 35-65 49-105-37Z" fill="#e8caff"/><path d="m942 158 105 37v111l-105-41Z" fill="#bb86e4"/><path d="m1047 195 65-49v113l-65 47Z" fill="#8050ae"/>
+<circle cx="1142" cy="108" r="22" fill="#e9b66d"/><path d="m1136 267 34-13 24 20-34 13Z" fill="#dfcce9"/><path d="m1136 267 24 20v32l-24-21Z" fill="#b198c7"/><path d="m1160 287 34-13v33l-34 12Z" fill="#806495"/>
+<text x="1175" y="64" fill="#c99aff" font-size="36" font-family="monospace">+</text><text x="831" y="145" fill="#c99aff" font-size="24" font-family="monospace">✳</text>
+<rect x="944" y="335" width="238" height="30" rx="3" fill="#c99aff"/><text x="960" y="355" fill="#241331" font-family="monospace" font-size="11" letter-spacing="1">A LITTLE LOGIC. A LOT OF PLAY.</text></svg>
